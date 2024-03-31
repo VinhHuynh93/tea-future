@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VinhHuynh93/tea-future.git"
+    "url": "https://github.com/victorydst3/tea-future.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VinhHuynh93/tea-future/issues"
+    "url": "https://github.com/victorydst3/tea-future/issues"
   },
-  "homepage": "https://github.com/VinhHuynh93/tea-future#readme"
+  "homepage": "https://github.com/victorydst3/tea-future#readme"
 }
